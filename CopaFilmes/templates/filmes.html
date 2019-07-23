@@ -1,0 +1,34 @@
+﻿<div class="container body-content">
+    <div class="jumbotron text-center">
+        <h5>CAMPEONATO DE FILMES</h5>
+        <h3 style="font-weight:600;">Fase de Seleção</h3>
+        <hr width="5%">
+        <h5 style="font-weight:600;">Selecione 8 filmes que você deseja que entrem a competição e depois pressione o botão Gerar Meu Campeonato para prosseguir.</h5>
+    </div>
+
+    <div class="rowbutton">
+        <div class="col-sm-9">
+            <h4>Selecionados</h4>
+            <h4 class="contador">0 de 8 filmes</h4>
+        </div>
+        <div class="col-sm-3">
+            <a id="btnResultado" class="btn btn-primary btn-block disabled" href="../resultado" onclick="submit()">
+                <strong>GERAR MEU CAMPEONATO</strong>
+            </a>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-3" ng-repeat="filme in filmes">
+            <div class="control-group">
+                <div class="row" style="margin-left: 0px;">
+                    <div class="checkbox checkbox-primary">
+                        <input id="{{filme.id}}" class="styled" type="checkbox" value="{{filme.id}}" onclick="contador()" />
+                        <label style="font-weight:600;" for="{{filme.id}}">{{filme.titulo}}</label><br />
+                        <p style="margin-left:10px;" for="{{filme.id}}">{{filme.ano}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

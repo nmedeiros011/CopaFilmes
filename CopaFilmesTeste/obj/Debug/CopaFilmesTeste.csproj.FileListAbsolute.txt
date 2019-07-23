@@ -1,0 +1,300 @@
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\CopaFilmesTeste.dll.config
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\CopaFilmesTeste.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\CopaFilmesTeste.pdb
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\CopaFilmes.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Web.Helpers.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Web.Mvc.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Web.Razor.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Web.WebPages.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Web.Optimization.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\RestSharp.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\WebGrease.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\CopaFilmes.pdb
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\CopaFilmes.dll.config
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Web.Helpers.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Web.Mvc.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Web.Razor.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Web.WebPages.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Web.Optimization.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\RestSharp.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\pt-br\System.Web.Razor.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\obj\Debug\CopaFilmesTeste.csprojAssemblyReference.cache
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\obj\Debug\CopaFilmesTeste.csproj.CoreCompileInputs.cache
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\obj\Debug\CopaFilmesTeste.csproj.CopyComplete
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\obj\Debug\CopaFilmesTeste.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\obj\Debug\CopaFilmesTeste.pdb
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Buffers.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Memory.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Security.Permissions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Buffers.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Memory.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes - Copia\CopaFilmesTeste\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\CopaFilmesTeste.dll.config
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\CopaFilmesTeste.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\CopaFilmesTeste.pdb
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\CopaFilmes.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Buffers.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Memory.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Security.Permissions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Web.Helpers.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Web.Mvc.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Web.Razor.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Web.WebPages.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Web.Optimization.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\RestSharp.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\WebGrease.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\CopaFilmes.pdb
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\CopaFilmes.dll.config
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Buffers.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Memory.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Web.Helpers.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Web.Mvc.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Web.Razor.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Web.WebPages.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\System.Web.Optimization.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\RestSharp.xml
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\pt-br\System.Web.Razor.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\bin\Debug\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\obj\Debug\CopaFilmesTeste.csprojAssemblyReference.cache
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\obj\Debug\CopaFilmesTeste.csproj.CoreCompileInputs.cache
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\obj\Debug\CopaFilmesTeste.csproj.CopyComplete
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\obj\Debug\CopaFilmesTeste.dll
+C:\Users\Nicolli de Medeiros\source\repos\CopaFilmes\CopaFilmesTeste\obj\Debug\CopaFilmesTeste.pdb

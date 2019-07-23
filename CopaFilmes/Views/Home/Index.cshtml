@@ -1,0 +1,23 @@
+﻿@model CopaFilmes.Models.Filmes
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section JavascriptHeader
+{
+    <script src="~/app/filmes-controller.js"></script>
+    <script src="~/app/resultado-controller.js"></script>
+    <script type="text/javascript">
+        app.factory('bootstrappedData', function () {
+
+            return {
+                filmes: @Html.Raw(Model.listaFilmes),
+                resultado: ""
+            };
+        });
+    </script>
+}
+
+<div class="container">
+    <div ng-view></div>
+</div>
